@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "campaign-discount-app",
+    "slug": "campaign-discount-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
