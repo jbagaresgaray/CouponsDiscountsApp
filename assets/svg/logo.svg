@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="59" height="59.26" viewBox="0 0 59 59.26">
+  <g id="logo" transform="translate(0 -0.74)">
+    <path id="Combined_Shape" data-name="Combined Shape" d="M54.083,59.26a24.583,24.583,0,1,0-49.166,0H0a29.5,29.5,0,1,1,59,0ZM29.5,0h4.917A24.639,24.639,0,0,0,59,24.691V29.63A29.566,29.566,0,0,1,29.5,0Z" transform="translate(0 0.74)" fill="#0074e4"/>
+    <ellipse id="Oval" cx="7.375" cy="7.407" rx="7.375" ry="7.407" transform="translate(44.25 0.74)" fill="#1d262c"/>
+    <ellipse id="Oval-2" data-name="Oval" cx="9.833" cy="9.876" rx="9.833" ry="9.876" transform="translate(19.667 40.247)" fill="#1d262c"/>
+    <ellipse id="Oval-3" data-name="Oval" cx="12.292" cy="12.346" rx="12.292" ry="12.346" transform="translate(0 0.74)" fill="#1d262c"/>
+  </g>
+</svg>
