@@ -11,6 +11,7 @@ eWalle app build with React Native, ExpoSDK, React Native Reanimated, React Nati
 https://project365.design/2018/11/02/day-306-coupons-and-discounts-app-sketch-freebie/
 
 ![React Native](https://project365.design/wp-content/uploads/2018/11/02112018-post-1200x675.png)
+![React Native](https://project365.design/wp-content/uploads/2018/11/02112018-design.png)
 
 
 ## Youtube URL
